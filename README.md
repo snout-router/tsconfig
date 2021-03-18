@@ -13,7 +13,7 @@
 
 ```json
 // tsconfig.json
-[
+{
   "extends": "@packula/tsconfig"
-]
+}
 ```
