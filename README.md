@@ -7,7 +7,7 @@
 
 ## Usage
 
-```json
+```jsonc
 // tsconfig.json
 {
   "extends": "@packula/tsconfig"
