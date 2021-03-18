@@ -1,0 +1,12 @@
+{
+  "noEmitOnError": true,
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "module": "ES2015",
+    "outDir": "artifacts/tsc",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2019"
+  }
+}
