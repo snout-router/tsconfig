@@ -5,10 +5,6 @@
 [badge-version-image]: https://img.shields.io/npm/v/@packula/tsconfig?label=%40packula%2Ftsconfig&logo=npm&style=for-the-badge
 [badge-version-link]: https://npmjs.com/package/@packula/tsconfig
 
-## Installation
-
-- Available as NPM module `@packula/tsconfig`
-
 ## Usage
 
 ```json
