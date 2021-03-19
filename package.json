@@ -8,7 +8,7 @@
   ],
   "repository": "packula/tsconfig",
   "bugs": "https://github.com/packula/tsconfig/issues",
-  "homepage": "https://packula.dev/",
+  "homepage": "https://packula.dev",
   "author": "Erin Millard <ezzatron@gmail.com>",
   "license": "MIT",
   "publishConfig": {
