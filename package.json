@@ -1,14 +1,14 @@
 {
-  "name": "@packula/tsconfig",
+  "name": "@snout/tsconfig",
   "version": "0.0.0",
-  "description": "The TypeScript configuration used by Packula repositories",
+  "description": "The TypeScript configuration used by Snout repositories",
   "keywords": [
     "tsconfig",
     "typescript"
   ],
-  "repository": "packula/tsconfig",
-  "bugs": "https://github.com/packula/tsconfig/issues",
-  "homepage": "https://packula.dev",
+  "repository": "snout-router/tsconfig",
+  "bugs": "https://github.com/snout-router/tsconfig/issues",
+  "homepage": "https://snout.dev",
   "author": "Erin Millard <ezzatron@gmail.com>",
   "license": "MIT",
   "publishConfig": {
