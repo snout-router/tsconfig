@@ -1,4 +1,4 @@
-# Snout TypeScript configuration
+# Snout TypeScript Configuration
 
 [![Current version][badge-version-image]][badge-version-link]
 
