@@ -2,12 +2,10 @@
   "compilerOptions": {
     "declaration": true,
     "esModuleInterop": true,
-    "module": "ES2015",
     "moduleResolution": "node",
     "noEmitOnError": true,
-    "outDir": "artifacts/tsc",
     "sourceMap": true,
     "strict": true,
-    "target": "ES2019"
+    "target": "esnext"
   }
 }
