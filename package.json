@@ -17,5 +17,8 @@
   "main": "tsconfig.json",
   "files": [
     "tsconfig.json"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
